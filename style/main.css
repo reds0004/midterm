@@ -61,7 +61,6 @@ body {
 
 .container {
     background-color: #d4e9e7;
-    font-style: arial;
     width: 1024px;
     margin: 0 auto;
 }
@@ -117,7 +116,7 @@ article{
 }
 
 figure.starfish {
-	width: 250spx;
+	width: 250px;
 	height: 250px;
 	padding: 0px 20px 38px 0px;
 	float:left
